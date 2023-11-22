@@ -48,7 +48,8 @@ main {
   background-color: #8d7b68;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
+  min-height: 80vh;
 }
 
 h1 {
